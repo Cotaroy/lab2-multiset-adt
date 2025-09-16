@@ -38,6 +38,7 @@ public class BSTMultiSet extends MultiSet {
 
     /**
      * @return True if this multiset is empty.
+     * add comment
      */
     @Override
     boolean isEmpty() {
